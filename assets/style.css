@@ -1,0 +1,51 @@
+body {
+    background-image: url(/Challenge1/assets/img/ccccv.png);
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+img {
+    width: 10%;
+}
+
+
+ul>li {
+    list-style-type: none;
+}
+
+.esperienze {
+    text-align: center;
+}
+
+table,
+tr,
+td {
+    border: 1px solid rgba(0, 0, 0, 0.114);
+}
+
+aside {
+    font-size: x-small;
+    margin-top: 8%;
+}
+
+a {
+    color: rgb(130, 54, 54);
+    font-weight: bolder;
+}
+
+h2 {
+    color: rgb(130, 54, 54);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.52);
+}
+
+.foot {
+    text-decoration-line: none;
+    color: rgb(154, 144, 144);
+}
+
+.foot:hover {
+    cursor: pointer;
+    font-size: larger;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.329);
+}
